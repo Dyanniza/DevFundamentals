@@ -1,2 +1,2 @@
 # DevFundamentals
-DevFundamental Java - OOP- and mores
+DevFundamental Java - OOP- and more
